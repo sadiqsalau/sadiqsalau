@@ -1,8 +1,7 @@
 # Hi, I'm Sadiq Salau 👋
 
-🚀 Self-taught full-stack developer from 🇳🇬 Nigeria  
-🧠 Building offline-first, high-performance web apps with modern tools  
-🤖 Leveraging AI (Copilot, Bolt, Lovable) for faster, smarter workflows
+🚀 Self-taught Software Engineer from 🇳🇬 Nigeria  
+🧠 Building offline-first, high-performance apps with modern tools 
 
 ---
 
@@ -18,7 +17,6 @@
 - Performance-first architecture
 - Offline-ready Progressive Web Apps
 - Clean code and maintainability
-- AI-assisted development (manual-first mindset)
 
 ---
 
