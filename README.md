@@ -21,8 +21,7 @@
 ---
 
 ### 📡 Currently
-- Experimenting with AI tools to generate full-stack apps based on prompts
-- Running a few solo products while studying psychology & programming
+- Building offline-first apps @pwabucket
 
 ---
 
